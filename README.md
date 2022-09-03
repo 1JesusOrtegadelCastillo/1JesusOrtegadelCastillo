@@ -25,5 +25,8 @@ Unit Testing and some others ...
 <a href="https://www.linkedin.com/in/jesusortegadelcastillo/?locale=en_US">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic" alt="linkedin" width="65">
 </a>
+<a href="https://twitter.com/1JDelCastillo">
+<img src="https://img.shields.io/badge/Twitter-9cf?style=plastic" alt="linkedin" width="54">
+</a>
 </div>  
 
