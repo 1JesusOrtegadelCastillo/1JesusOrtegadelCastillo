@@ -11,9 +11,11 @@
 
 I'm a Systems Engineer with passion and curiosity for technology.
 
-I've had the opportunity to work in different areas of IT and I'm currently   working hard to become a great Software Engineer.   
+I've had the opportunity to work in different areas of IT and I'm currently   
+working hard to become a great Software Engineer.   
 
-With 1+ YOE, my current skillset includes technologies such as Java, Spring   Boot, Hibernate, Docker, Kubernetes, Relational Databases,    
+With 1+ YOE, my current skillset includes technologies such as Java,  
+Spring   Boot, Hibernate, Docker, Kubernetes, Relational Databases,    
 Unit Testing and some others ...
 
 #
