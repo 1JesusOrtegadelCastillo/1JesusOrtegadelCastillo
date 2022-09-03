@@ -23,11 +23,10 @@ Unit Testing and some others ...
 ### **Reach me on** 💬 
 <div id="badges">
 <a href="https://www.linkedin.com/in/jesusortegadelcastillo/?locale=en_US">
-<img src="https://img.shields.io/badge/LinkedIn-informational?style=plastic" alt="linkedin" width="65">
+<img src="https://img.shields.io/badge/LinkedIn-informational?style=flat" alt="linkedin" width="65">
 </a>
-
 <a href="https://twitter.com/1JDelCastillo">
-<img src="https://img.shields.io/badge/Twitter-blue?style=social" alt="linkedin" width="55">
+<img src="https://img.shields.io/badge/Twitter-blue?style=flat-square" alt="linkedin" width="55">
 </a>
 </div>  
 
