@@ -26,7 +26,7 @@ Unit Testing and some others ...
 <img src="https://img.shields.io/badge/LinkedIn-informational?style=plastic" alt="linkedin" width="65">
 </a>
 <a href="https://twitter.com/1JDelCastillo">
-<img src="https://img.shields.io/badge/Twitter-blue?style=plastic" alt="linkedin" width="54">
+<img src="https://img.shields.io/badge/Twitter-blue?style=plastic" alt="linkedin" width="55">
 </a>
 </div>  
 
