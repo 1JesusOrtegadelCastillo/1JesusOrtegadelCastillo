@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/utfeiHQ7CcpyRtXla6/giphy.gif" width="70">
+<img src="https://media.giphy.com/media/utfeiHQ7CcpyRtXla6/giphy.gif" width="100">
 
 #### Howdy! 👋
 </div>
@@ -11,9 +11,12 @@
 
 I'm a Systems Engineer with passion and curiosity for technology.
 
-I've had the opportunity to work in different areas of IT and I'm currently working hard to become a great Software Engineer.   
+I've had the opportunity to work in different areas of IT and I'm  
+ currently working hard to become a great Software Engineer.   
 
-With 1+ YOE, my current skillset includes technologies such as Java, Spring Boot, Hibernate, Docker, Kubernetes, Relational Databases, Unit Testing and some others ...
+With 1+ YOE, my current skillset includes technologies such as Java,  
+Spring Boot, Hibernate, Docker, Kubernetes, Relational Databases,  
+Unit Testing and some others ...
 
 #
 
@@ -21,7 +24,7 @@ With 1+ YOE, my current skillset includes technologies such as Java, Spring Boot
 <br>  
 <div id="badges">
 <a href="https://www.linkedin.com/in/jesusortegadelcastillo/?locale=en_US">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic" alt="linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic" alt="linkedin" width="65">
 </a>
 </div>  
 
